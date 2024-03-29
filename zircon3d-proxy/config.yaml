@@ -13,3 +13,4 @@ ports:
   11200/tcp: 11200
 arch:
   - amd64
+  - aarch64
